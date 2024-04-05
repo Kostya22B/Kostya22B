@@ -2,8 +2,8 @@ Hi, I’m @Kostya22B
 
 I’m interested in back-end dev, front-end dev, full-stack dev, project management, game dev, ML, DA
 
-Hard skills: C/C++, SQL, Java, Python, PHP, JavaScript, (html+css), UML, Client-server apps, project management
-Soft skills: communication 80 lvl, non-standard creative thinking, empathy, fast-learning, can integrate to new company in few minutes
+Hard skills: C/C++, SQL, Java, Python, VBA, PHP, JavaScript, (html+css), UML, Client-server apps, project management
+Soft skills: communication 80 lvl, non-standard creative thinking, empathy, fast-learning, can integrate to new company in few minutes, have experience as a teamlead
 
 Also, I'm studying in CVUT FEL and ONU FyzMat. 4 semester in both of them
 How to reach me: just give me a cup of coffee or interesting project :D
