@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @Kostya22B
-- 👀 I’m interested in python/3-d modeeling/ web-dev
-- 🌱 I’m currently learning english
-- 📫 How to reach me just give me a cup of coffee
+Hi, I’m @Kostya22B
+
+I’m interested in back-end dev, front-end dev, full-stack dev, project management, game dev, ML, DA
+
+Hard skills: C/C++, SQL, Java, Python, PHP, JavaScript, (html+css), UML, Client-server apps, project management
+Soft skills: communication 80 lvl, non-standard creative thinking, empathy, fast-learning, can integrate to new company in few minutes
+
+Also, I'm studying in CVUT FEL and ONU FyzMat. 4 semester in both of them
+How to reach me: just give me a cup of coffee or interesting project :D
 
 <!---
 Kostya22B/Kostya22B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
